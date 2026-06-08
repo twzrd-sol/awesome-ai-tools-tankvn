@@ -6237,6 +6237,7 @@ Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc
 
 ### Workflows
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana-native x402 MCP server for AI agent trust scoring. Free tools: `score_agent`, `preflight_check`. Paid: signed trust receipt via HTTP 402 + USDC. MCP endpoint: `https://intel.twzrd.xyz/mcp`
 - [Alfred AI](https://treblle.com) - Streamlines API management, boosts developer productivity, enhances security.. [Freemium]
 - [Zapier](https://zapier.com) - Streamline tasks with intuitive, code-free, scalable app integrations.. [Free Trial]
 - [Make](https://www.make.com) - Streamline workflows with intuitive visual automation across numerous apps and processes.. [Freemium]
